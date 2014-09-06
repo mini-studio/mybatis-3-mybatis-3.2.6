@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sat Sep 06 22:56:41 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0148-4b77-9593-000004d2f930 
+on database directory /Users/Wuquancheng/Documents/workspace/Java/Java/Source/mybatis-3-mybatis-3.2.6/ibderby  with class loader sun.misc.Launcher$AppClassLoader@62f72617 
+Loaded from file:/Users/Wuquancheng/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-462-11M4609
+user.dir=/Users/Wuquancheng/Documents/workspace/Java/Java/Source/mybatis-3-mybatis-3.2.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
